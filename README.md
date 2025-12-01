@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Daroen
+
+![bjirr](img/duck.jpg)
 
 <!--
 **daroen662/daroen662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Javascript
+  ✅✅✅
+
+![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRwcGJ0ajJqbDdkOWVvdXI3ODF0cDNlNWU3OWQ2MWt2N3N0YTd4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vFKqnCdLPNOKc/giphy.gif)
